@@ -3,6 +3,8 @@ Small Golang port scanner
 
 The main goal of this project is not to produce a efficient pentest toos ... just to learn Golang Basics !
 
+/!\ Disclaimer : I am not responsable about anything you can do with it !
+
 ## Demo
 
 ```
